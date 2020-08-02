@@ -1,0 +1,8 @@
+
+#file: ./main
+// here goes your main content
+// executes 20 times a second
+
+as(@a),at(@s){
+    run function "botti_func/main"
+}
